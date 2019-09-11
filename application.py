@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello World!"
+    return "This Application is a quick example of deploying a custom Python Web Application via Microsoft CDN"
